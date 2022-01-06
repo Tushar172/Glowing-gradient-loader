@@ -1,2 +1,2 @@
-Hello this is Glowing gradient loader
+Hello this is Glowing gradient loader using HTML AND CSS
 
